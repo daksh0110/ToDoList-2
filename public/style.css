@@ -1,0 +1,8 @@
+body {
+    /* Linear Gradient with a mix of colors */
+    background-color:#D8D9DA;
+    margin: 0; /* Remove default margin to avoid unnecessary spacing */
+  }
+  .customcolor{
+  background-color: #9288F8
+  }
